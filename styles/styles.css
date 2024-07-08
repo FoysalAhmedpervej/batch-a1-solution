@@ -1,0 +1,26 @@
+/* shared style */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family: Merriweather;
+    color: white;
+    font-size: 100px;
+}
+
+.banner-container{
+    width: 1320px;
+    margin: 0 auto;
+    border: 2px solid red;
+    min-height: 600px;
+    margin-top:20px;
+    background-image:url("../images/Banner\ Image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
